@@ -1,1 +1,1 @@
-https://github.com/LukaVerhoeven/kdg-software-engineering-2015-2016.git
+https://github.com/LukaVerhoeven/Oplossingen-software-engineering.git
